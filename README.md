@@ -6,7 +6,5 @@ This is a back-end project being developed to replace the existing [homepage of 
 ## request format
 
 ```
-This is unfinished.
-Hahahaha
-sorry.
+
 ```
